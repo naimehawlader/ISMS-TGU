@@ -1,0 +1,7 @@
+.Homepage {
+    background-image: url('../assets/TiangongB.jpg'); /* Set the background image */
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    min-height: 100vh; /* Set a minimum height to fill the viewport */
+    /* Add other styles as needed */
+  }
